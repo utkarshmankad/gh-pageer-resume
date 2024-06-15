@@ -9,12 +9,11 @@ This repository contains my resume, which is publicly accessible and hosted usin
 ## Viewing the Resume
 
 To view my resume, simply click the following link:
-[View My Resume](https://your-github-username.github.io/your-repo-name)
+[View My Resume](https://utkarshmankad.github.io/gh-pageer-resume)
 
 ## Contents
 
 The repository contains the following files:
-- `index.html` (if you are using an HTML version of your resume)
 - `resume.pdf` (if you are using a PDF version of your resume)
 - Other assets such as images, CSS files, etc. (if applicable)
 
